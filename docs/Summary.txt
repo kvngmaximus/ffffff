@@ -1,0 +1,64 @@
+PROJECT SUMMARY
+A simple e-commerce site for cosmetic products. Needs a dashboard, product management, a storefront, wishlist, and cart. For now, products will be random cosmetic items, not actual inventory.
+
+CORE FEATURES TO BUILD
+
+1. Dashboard
+
+Add product.
+
+Delete product.
+
+Edit product details.
+
+View list of all products.
+
+2. Product Management
+Each product should have:
+
+Image.
+
+Name.
+
+Price.
+
+Description.
+
+Category.
+
+Stock status.
+
+Add to cart button.
+
+Add to wishlist button.
+
+3. Storefront
+When a user clicks Store, they should land on:
+
+A top banner or hero section, basically an advertising space.
+
+Below that, a grid of products displaying the random cosmetics.
+
+4. Wishlist
+
+Users can save products to wishlist.
+
+Basic view page to show all saved items.
+
+Option to move wishlist items to cart.
+
+5. Cart
+
+Add to cart button on product.
+
+Cart page showing selected items, quantity, price, and total.
+
+Option to remove items.
+
+6. Widgets
+
+Wishlist widget (icon showing count of saved items).
+
+Cart widget (icon showing count of items in cart).
+
+Both visible on the header.

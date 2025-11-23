@@ -1,0 +1,74 @@
+# UI Style Guide for Cosmetic E-commerce Website
+
+## 1. Color Palette
+
+**Primary White**: #FFFFFF
+**Primary Green**: #4D6B57
+**Accent Green**: #E7EFEA
+**Heading Black**: #1C1C1C
+**Body Grey**: #555D63
+**Highlight Beige (Optional)**: #F3EDE7
+
+## 2. Typography
+
+**Headings**: Playfair Display, Inter Bold
+**Body Text**: Inter Regular, DM Sans
+**Heading Size Range**: 32px to 56px
+**Body Size Range**: 14px to 18px
+
+## 3. Layout Structure
+
+### Hero Section
+
+* Full width image
+* CTA button in Primary Green with white text
+* Minimal shadow beneath products
+
+### Categories Section
+
+* Rounded icons
+* White or Accent Green background
+* Subtle shadow
+
+### Product Grid
+
+* White product cards
+* 1px light border (#E5E5E5)
+* Ratings visible
+* Optional discount badge in soft red
+
+### Promo Banner
+
+* Image left, text right
+* Background using Accent Green or Beige
+
+## 4. Buttons
+
+**Primary Button**: Green (#4D6B57), white text
+**Secondary Button**: White background, black text, 1px border
+**Radius**: 6px to 10px
+
+## 5. Icons
+
+* Wishlist, cart, search: simple line icons
+* Color: Black or dark grey (#1C1C1C)
+
+## 6. Mood and Feel
+
+Minimal. Botanical. Calm. Luxury skincare aesthetic.
+Breathing space between sections.
+
+## 7. Product Card Template
+
+* Image top
+* Name
+* Price
+* Rating
+* Add to Cart button
+* Add to Wishlist icon in top corner
+
+## 8. Spacing
+
+**Section Padding**: 60px
+**Card Padding**: 16px
+**Grid Gap**: 20px
